@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Task4</string>
+    <string name="collection">Collection</string>
+    <string name="playlists">Playlists</string>
+    <string name="favorites">Favorites</string>
+    <string name="_10_tracks">10 tracks</string>
+    <string name="listened_to_recently">Have you listened to recently</string>
 </resources>

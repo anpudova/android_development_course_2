@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="10dp"
-            android:text="Have you listened to recently"
+            android:text="@string/listened_to_recently"
             android:textColor="@color/color_text_main"
             android:textSize="20sp"
             android:visibility="gone"
@@ -45,8 +45,8 @@
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:layout_width="wrap_content"
                 android:layout_height="90dp"
-                android:layout_marginLeft="15dp"
-                android:layout_toRightOf="@id/iv_playlist"
+                android:layout_marginStart="15dp"
+                android:layout_toEndOf="@id/iv_playlist"
                 android:orientation="vertical">
 
                 <TextView
@@ -54,7 +54,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="45dp"
                     android:gravity="bottom"
-                    android:text="Favorites"
+                    android:text="@string/favorites"
                     android:textColor="@color/color_text_main"
                     android:textSize="20sp" />
 
@@ -63,7 +63,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="45dp"
                     android:gravity="top"
-                    android:text="10 tracks"
+                    android:text="@string/_10_tracks"
                     android:textSize="15sp" />
 
             </androidx.appcompat.widget.LinearLayoutCompat>

@@ -15,7 +15,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        android:text="Collection"
+        android:text="@string/collection"
         android:textSize="20sp"
         android:padding="7dp"
         android:background="#F1F1F1"
