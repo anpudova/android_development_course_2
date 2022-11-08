@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstFragment"
+        android:enabled="true"
+        android:icon="@drawable/one"
+        android:title="@string/first"/>
+    <item
+        android:id="@+id/secondFragment"
+        android:enabled="true"
+        android:icon="@drawable/two"
+        android:title="@string/second"/>
+    <item
+        android:id="@+id/thirdFragment"
+        android:enabled="true"
+        android:icon="@drawable/tree"
+        android:title="@string/third"/>
+    <item
+        android:id="@+id/bottomSheetFragment"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="@string/fourth"/>
+</menu>
