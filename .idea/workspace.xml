@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8678d21f-6ddf-4661-9081-70a487c4593e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/androidTest/java/com/example/task_5/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/BottomSheetAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/ItemModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/BottomSheetFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/FirstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/FirstTreeFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/FirstTwoFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/SecondFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/SecondTwoFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/ThirdFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/ThirdTreeFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/java/com/example/task_5/fragments/ThirdTwoFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/color/bottom_nav_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_bottom_sheet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_first_tree.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_first_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_second_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_third.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_third_tree.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/fragment_third_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/layout/item_recycler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/navigation/main_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/app/src/test/java/com/example/task_5/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HDwXdqsTvsdAYYdpKLuVQp4beV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8678d21f-6ddf-4661-9081-70a487c4593e" name="Changes" comment="" />
+      <created>1667833002671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667833002671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task_5</string>
+    <string name="third">Third</string>
+    <string name="second">Second</string>
+    <string name="first">First</string>
+    <string name="fourth">Fourth</string>
+    <string name="onw">Далее</string>
+    <string name="enter">Введите текст</string>
+</resources>
