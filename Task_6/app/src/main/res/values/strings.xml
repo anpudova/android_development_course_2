@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_6</string>
+    <string name="name_channel">Channel</string>
+    <string name="description_channel">Description</string>
+</resources>
