@@ -1,4 +1,4 @@
-package com.example.task_7
+package com.example.task_7.fragments
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -7,8 +7,10 @@ import androidx.fragment.app.*
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.task_7.adapters.CitiesAdapter
+import com.example.task_7.models.ItemModel
+import com.example.task_7.R
 import com.example.task_7.databinding.FragmentFirstBinding
-import java.util.*
 
 class FirstFragment : Fragment(R.layout.fragment_first){
     private var _binding: FragmentFirstBinding? = null

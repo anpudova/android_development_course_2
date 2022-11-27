@@ -1,4 +1,4 @@
-package com.example.task_7
+package com.example.task_7.models
 
 data class ItemModel(
     val number: Int,

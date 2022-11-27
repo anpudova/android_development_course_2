@@ -1,19 +1,16 @@
-package com.example.task_7
+package com.example.task_7.fragments
 
 import android.app.AlertDialog
 import android.content.Intent
-import android.content.pm.PackageManager
-import android.location.SettingInjectorService
 import android.net.Uri
 import android.os.Bundle
 import android.provider.MediaStore
 import android.provider.Settings
 import android.view.View
-import androidx.activity.result.ActivityResultCallback
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.app.ActivityCompat
-import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
+import com.example.task_7.R
 import com.example.task_7.databinding.FragmentSecondBinding
 
 class SecondFragment: Fragment(R.layout.fragment_second) {

@@ -1,9 +1,10 @@
-package com.example.task_7
+package com.example.task_7.adapters
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.task_7.models.ItemModel
 import com.example.task_7.databinding.ItemCityBinding
 
 class CitiesAdapter: RecyclerView.Adapter<CitiesAdapter.ItemViewHolder>() {
