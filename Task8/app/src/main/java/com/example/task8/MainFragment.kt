@@ -20,7 +20,6 @@ class MainFragment: Fragment(R.layout.fragment_main) {
 
     private val permission = registerForActivityResult(ActivityResultContracts.RequestPermission()) { isGranted ->
         if (isGranted) {
-            Toast.makeText(requireContext(), "Start", Toast.LENGTH_SHORT).show()
             val locationService = LocationService()
             val intentService = Intent(context, locationService.javaClass)
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
