@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task8</string>
+    <string name="name_channel">location_channel</string>
+    <string name="description_channel">description_channel</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
